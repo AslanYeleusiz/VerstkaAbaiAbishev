@@ -1,0 +1,155 @@
+@media (max-width: 991px) {
+
+    .block2 .div {
+        margin-top: 50px;
+    }
+
+    .block2 .golden-text {
+        font-size: 30px;
+        line-height: 32px;
+    }
+
+    .b4-pred-zagolovok {
+        margin-top: 25px;
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    .block2 .list {
+        margin: 5px 0;
+    }
+
+    .block2 .cst-input {
+        width: 230px;
+    }
+
+    .block2 .inp {
+        margin: 6px 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .block2 .org {
+        margin: 0;
+    }
+
+    .block2-2 .myus {
+        font-size: 35px;
+    }
+
+    .zayavka p {
+        font-size: 30px;
+    }
+
+    .zayavka span:nth-child(4),
+    .zayavka span:nth-child(2) {
+        font-size: 18px
+    }
+
+    .cst-input {
+        min-width: 100%;
+    }
+}
+
+@media (max-width: 939px) {
+    .abay-img {
+        width: 297px;
+    }
+
+    .vector {
+        margin: 320px 0 0 400px;
+    }
+
+    .navbar-brand {
+        margin-right: 15px;
+    }
+
+    .nav-link {
+        font-size: 12px;
+    }
+
+    .cst-pd {
+        padding: 0 20px;
+    }
+
+    .block1 {
+        background-size: 190%;
+    }
+
+    .pg1-zogo {}
+
+    .pg1-zogo span {
+        font-size: 45px;
+        line-height: 35px;
+    }
+
+    .bonus {
+        margin-top: 35px;
+        padding-bottom: 65px;
+    }
+
+    .abay-info {
+        margin: 440px 0 0;
+        transform: translateX(-100px);
+    }
+
+    .s1 {
+        font-size: 18px;
+        width: 250px;
+        height: 54px;
+    }
+
+    .s2 {
+        font-size: 12px;
+        width: 278px;
+        height: 79px;
+    }
+
+    .b4-abayInfo-img {
+        margin: 70px 0 0 120px;
+    }
+
+    .f {
+        display: none;
+    }
+
+    .video-content {
+        width: 100%;
+        background-size: 93%;
+    }
+
+    .video-content img {
+        overflow: hidden;
+    }
+
+    .video-info {
+        padding-bottom: 110px;
+    }
+
+    .zayavka {
+        margin: 102px 0 0 280px;
+    }
+
+    .left-right {
+        display: flex;
+    }
+
+}
+
+@media (max-width: 860px) {
+    .b4-abay-img {
+        transform: translateX(-150px);
+    }
+}
+
+@media (max-width: 831px) {
+    .ddd-tittle {
+        font-size: 43px;
+    }
+
+    .div-display .list {
+        font-size: 15px;
+    }
+
+}

@@ -1,0 +1,303 @@
+@media (max-width: 767px) {
+    .block1 {
+        background-size: 300%;
+    }
+
+    .cst-pd {
+        padding: 50px;
+    }
+
+    .neskrit {
+        display: none;
+    }
+
+
+
+    .skrit {
+        display: block;
+    }
+
+    .block2 {
+        padding: 50px 0;
+    }
+
+    .block2 .skrit span {
+        font-size: 40px;
+        line-height: 54px
+    }
+
+    .b4-pred-zagolovok {
+        font-size: 20px;
+    }
+
+    header .navbar-brand {
+        margin-left: -150px
+    }
+
+
+    .pg1-zogo span {
+        font-size: 65px;
+        line-height: 44px;
+    }
+
+    .b4-abay-img {
+        position: absolute;
+        right: 0;
+        transform: translate(0);
+    }
+
+    .b4-abayInfo-img {
+        right: 0;
+    }
+
+    .bonus img {
+        width: 160px;
+        height: 145px;
+        transform: translateY(470px);
+        z-index: 3;
+    }
+
+    .bonus-info {
+        width: 280px;
+        font-size: 28px;
+        transform: translate(-130px, 35px);
+    }
+
+    .bonus-info .br {
+        display: block;
+    }
+
+    /*    video-content*/
+    .abay-img {
+        width: 40vw;
+        transform: translate(0);
+        position: absolute;
+        right: 0;
+    }
+
+    .abay-info {
+        transform: translate(0);
+    }
+
+    .s1 {
+        position: absolute;
+        right: 0;
+        margin: -80px 0;
+        width: 200px;
+        width: 324px;
+        height: 70px;
+        font-size: 24px;
+    }
+
+    .s2 {
+        position: absolute;
+        right: 0;
+        font-size: 16px;
+        width: 362px;
+        height: 103px;
+    }
+
+    .btn-pos {
+        margin-top: 210px;
+        margin-bottom: 100px;
+    }
+
+    .btn-pos .btn.alignCenter.btn-ramka {
+        width: 100%;
+    }
+
+    .btn-pos .btn.btn-bg {
+        width: 87%;
+    }
+
+    .s {
+
+        position: absolute;
+        width: 57%;
+        left: 280px;
+        margin-top: 260px;
+    }
+
+    .vector {
+        display: none;
+    }
+
+    .vector2 {
+        width: 50px;
+        display: block;
+        margin: 610px 0 0 0px;
+        z-index: 3;
+    }
+
+    .pg2-vidio img {
+        width: 250px;
+    }
+
+    .div-display {
+        height: 800px;
+        background: url(imgs/Rectangle%20201.png) center/auto 200% no-repeat;
+    }
+
+    .s3 {
+        margin: 250px 60px 0 0;
+    }
+
+    .poligon {
+        display: flex;
+    }
+
+    .poligon img {
+        position: relative;
+        width: 25px;
+        transform: translate(4px, 28px);
+    }
+
+    .prosmotr {
+        transform: translate(-146px, -30px);
+    }
+
+    .b2-zogolovok {
+        margin: 0;
+    }
+
+    .block4 {
+        padding: 70px 0 0;
+    }
+
+    .f {
+        display: none;
+    }
+
+    .pg {
+        margin: -40px;
+        opacity: 1;
+    }
+
+    #page-5 {
+        margin-top: 100px;
+    }
+
+    .zayavka {
+        margin: 102px 0 0 200px;
+    }
+
+    .zayavka .btn {
+        width: 100%;
+    }
+
+    .zayavka .btn-bg {
+        width: 46%;
+    }
+
+    .video-content {
+        height: 71%;
+    }
+
+    .video-info {
+        padding: 0 0 60px 60px;
+    }
+}
+
+@media (max-width: 685px) {
+
+    .block1 .navbar-brand {
+        margin-left: -90px
+    }
+
+    .pg1-zogo span {
+        font-size: 55px;
+    }
+
+    .bonus-info {
+        font-size: 22px;
+    }
+
+    .bonus-info br {
+        display: none;
+    }
+
+    .s {
+        width: auto;
+        height: auto;
+        right: 0;
+        margin-top: 180px;
+    }
+
+    .vector2 {
+        margin-top: 530px;
+    }
+
+    #page-1 .btn.btn-bg {
+        width: 83%;
+    }
+
+    .bonus img {
+        transform: translateY(400px);
+    }
+
+    .zayavka {
+        margin: 80px;
+    }
+
+    .zayavka .btn.btn-bg {
+        width: 58%;
+    }
+
+    #page-2 .div-info br {
+        display: none;
+    }
+
+    #page-2 .div-info {
+        font-size: 38px;
+    }
+
+    .list .inf.d-inline {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 629px) {
+    .video-info {
+        padding: 0 0 80px 60px;
+    }
+}
+
+@media (max-width: 595px) {
+    .cst-pd {
+        padding: 20px;
+    }
+
+    #nonomer {
+        display: none;
+    }
+
+    .phone-logo {
+        width: 30px;
+        height: 30px;
+    }
+
+    .block4 .video {
+        height: 500px;
+    }
+
+    .active-phone {
+        padding: 0 20px 0 40px;
+    }
+
+    .video-content span {
+        font-size: 18px;
+    }
+
+    .video-content p {
+        font-size: 14px;
+    }
+
+    .block2-2 {
+        background-position: bottom;
+        background-size: 620%;
+    }
+
+    .video-info {
+        padding: 0 0 50px 50px;
+    }
+}

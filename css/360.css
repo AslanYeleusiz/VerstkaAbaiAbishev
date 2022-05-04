@@ -1,0 +1,41 @@
+@media (max-width: 355px) {
+    #page-2 .div-info {
+        font-size: 28px;
+    }
+
+    .cst-pd {
+        padding: 15px;
+    }
+
+    .number-phone-block span {
+        font-size: 12px;
+    }
+
+    .active-phone {
+        padding: 0 10px 0 30px
+    }
+
+    .block1 .zagolovok span {
+        font-size: 32px;
+    }
+
+    .s3 {
+        margin-top: 160px
+    }
+
+    .b4-abay-img img {
+        width: 200px;
+    }
+
+    .block4 .myus {
+        font-size: 32px;
+    }
+
+    .block4 .org {
+        margin: 0 30px;
+    }
+
+    .video-info {
+        padding: 0 0 50px 30px;
+    }
+}

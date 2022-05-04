@@ -1,0 +1,102 @@
+@media (max-width: 1199px) {
+    .navbar-brand {
+        margin-right: 30px
+    }
+
+    .pg1-zogo span {
+        font-size: 50px;
+        line-height: 12px;
+    }
+
+    .bonus-info {
+        font-size: 16px;
+    }
+
+    .nav-link {
+        font-size: 14px;
+    }
+
+    .cst-pd {
+        padding: 0 60px;
+    }
+
+    .vector {
+        margin: 370px 0 0 400px;
+    }
+
+    .abay-img {
+        width: 420px;
+        transform: translateX(-40px)
+    }
+
+    .video-content {
+        background: url(imgs/Video.png) center/auto 94% no-repeat, url(imgs/4.png) center/auto 93% no-repeat;
+    }
+
+    .abay-info {
+        transform: translateX(-70px);
+    }
+
+    .b2-zogolovok span {
+        font-size: 35px;
+    }
+
+    .pg2-vidio img {
+        transform: translateX(50px);
+        width: 260px;
+        bottom: 28px;
+        z-index: 1;
+    }
+
+    .div-info {
+        font-size: 38px;
+    }
+
+    .cst-input {
+        min-width: 0;
+    }
+
+    .b4-cst-btn {
+        width: 230px;
+    }
+
+    .b4-div {
+        padding: 20px;
+    }
+
+    .div-display .list {
+        font-size: 16px;
+    }
+
+    .div-display .list span {
+        font-size: 20px;
+    }
+
+    .myus {
+        font-size: 50px;
+    }
+
+    .org {
+        font-size: 25px;
+    }
+
+    .skew.s3 {
+        z-index: 2;
+    }
+
+    .ddd-tittle {
+        font-size: 45px;
+    }
+
+    .b4-abayInfo-img {
+        margin: 70px 0 0 220px;
+    }
+
+    .b4-abay-img {
+        transform: translateX(-100px)
+    }
+
+    .video-info {
+        padding: 0 0 45px 60px;
+    }
+}
